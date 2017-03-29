@@ -43,8 +43,3 @@ def test_api():
         't.account@ravelin.com',
         'ta@ravelin.com',
     ]]
-
-    # domains
-    # tlds
-
-test_api()
